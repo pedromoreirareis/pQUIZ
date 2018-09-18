@@ -178,6 +178,7 @@ public class DoneActivity extends AppCompatActivity implements View.OnClickListe
                     }
                 } else {
 
+
                     Score newScore = new Score(
                             userCategory,
                             Common.currentUser.getUserName(),
