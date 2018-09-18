@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">pQuiz</string>
+
+
+    <string name="showScore">%1$d pontos</string>
+    <string name="showQuestionNum">%1$d de %2$d</string>
+
+    <string name="showScoreResult">%1$d pontos</string>
+    <string name="showQuestionResult">%1$d corretas de %2$d</string>
+
+
+    <string name="uploadUserCategory">%1$s_%2$s</string>
+    <string name="hint_nome_usuario">Nome do usuário...</string>
+    <string name="hint_senha">Senha...</string>
+    <string name="text_entrar">Entrar</string>
+    <string name="text_cadastrar">Cadastrar</string>
+    <string name="text_tente_novamente">Tente Novamente</string>
+    <string name="text_parar">Parar</string>
+    <string name="text_jogador">Jogador</string>
+    <string name="text_pontos">Pontos</string>
+    <string name="text_categoria">Categoria</string>
+    <string name="text_sign_up_nome_usuario">Nome do usuário...</string>
+    <string name="text_sign_up_senha">Senha...</string>
+    <string name="text_sign_up_email">E-mail...</string>
+    <string name="text_jogar">JOGAR</string>
+
+</resources>

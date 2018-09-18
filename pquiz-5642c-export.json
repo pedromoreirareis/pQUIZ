@@ -1,0 +1,1004 @@
+{
+  "Categorys" : {
+    "01" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/Categorys%2Fcapitais_brasileiras.jpg?alt=media&token=969db575-4091-46d0-a46e-0caf8890857e",
+      "name" : "Estados brasileiros"
+    },
+	"02" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/Categorys%2Famerica.jpg?alt=media&token=d1266e52-3845-4677-b5a1-90e55e873ab8",
+      "name" : "Países das Américas"
+    },
+	"03" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/Categorys%2Feuropa.jpg?alt=media&token=a174af0d-ea9b-41ef-93ce-e969734062a7",
+      "name" : "Países da Europa"
+    },
+	"04" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/Categorys%2Fcapitais_brasileiras.jpg?alt=media&token=969db575-4091-46d0-a46e-0caf8890857e",
+      "name" : "Bandeiras"
+    }
+  },
+"Answers" : {
+    "01" : {
+      "answerList" : [ "Rio Branco", "Maceió", "Macapá", "Manaus", "Salvador", "Fortaleza", "Brasília", "Vitória", "Goiânia", "São Luís","Cuiabá", "Campo Grande", "Belo Horizonte", "Belém", "João Pessoa", "Curitiba", "Recife", "Teresina", "Rio de Janeiro", "Natal","Porto Alegre", "Porto Velho", "Boa Vista", "Florianópolis", "São Paulo", "Aracaju", "Palmas"],
+      "categoryId" : "01"
+    },
+	"02" : {
+      "answerList" : [ "Otawa","Washington","Cidade do México","Saint John’s","Nassau","Bridgetown","Belmopan","San José","Havana","Roseau","San Salvador","Saint George’s","Cidade da Guatemala","Porto Príncipe","Tegucigalpa","Kingston","Manágua","Cidade de Panamá","Santo Domingo","Castries","Basseterre","Kingstown","Porto de Espanha","Buenos Aires","La Paz","Brasília","Santiago","Bogotá","Quito","Georgetown","Assunção","Lima","Paramaribo","Montevideu","Caracas"],
+      "categoryId" : "02"
+    },
+	"03" : {
+      "answerList" : ["Tirana","Berlim","Andorra la Vella","Erevan","Viena","Baku","Bruxelas","Minsk","Sarajevo","Sófia","Astana","Nicósia","Zagreb","Copenhage","Bratislava","Liubliana","Madri","Tallinn","Helsink","Paris","Tbilisi","Atenas","Amsterdã","Budapeste","Dublin","Reykjavík","Roma","Riga","Vaduz","Vilnius","Luxemburgo","Skopje","Valetta","Chisinau","Monaco-Ville","Podgorica","Oslo","Varsóvia","Lisboa","Londres","Praga","Bucareste","Moscou","San Marino","Belgrado","Estocolmo","Berna","Ancara","Kiev","Cidade do Vaticano"],
+      "categoryId" : "03"
+    },
+	"04" : {
+      "answerList" : ["Alemanha","Argentina","Bahamas","Bangladesh","Bélgica","Bolívia","Brasil","Canadá","Chile","China","Colômbia","Coreia do Sul","Croácia","Cuba","Egito","Equador","Espanha","Estados Unidos","Filândia","França","Geórgia","Grécia","Hong Kong","Índia","Italia","Japão","Marrocos","México","Rússia","Singapura","Suiça","Ucrânia","Uruguai","Venezuela","Angola","Australia","Austria","Camarões","Costa Rica","Israel","Peru","Portugal","Polônia","Porto Rico"],
+      "categoryId" : "04"
+    }
+  },
+  "Questions" : {
+    "01" : {
+      "answer" : "Rio Branco",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Acre?"
+    },
+    "02" : {
+      "answer" : "Maceió",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Alagoas?"
+    },
+    "03" : {
+      "answer" : "Macapá",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Amapá?"
+    },
+    "04" : {
+      "answer" : "Manaus",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Amazonas?"
+    },
+    "05" : {
+      "answer" : "Salvador",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Bahia?"
+    },
+    "06" : {
+      "answer" : "Fortaleza",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Ceará?"
+    },
+    "07" : {
+      "answer" : "Brasília",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Distrito Federal?"
+    },
+    "08" : {
+      "answer" : "Vitória",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Espírito Santo?"
+    },
+    "09" : {
+      "answer" : "Goiânia",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Goiás?"
+    },
+    "10" : {
+      "answer" : "São Luís",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Maranhão?"
+    },
+    "11" : {
+      "answer" : "Cuiabá",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Mato Grosso?"
+    },
+    "12" : {
+      "answer" : "Campo Grande",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Mato Grosso do Sul?"
+    },
+    "13" : {
+      "answer" : "Belo Horizonte",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Minas Gerais?"
+    },
+    "14" : {
+      "answer" : "Belém",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Pará?"
+    },
+    "15" : {
+      "answer" : "João Pessoa",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Paraíba?"
+    },
+    "16" : {
+      "answer" : "Curitiba",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Paraná?"
+    },
+    "17" : {
+      "answer" : "Recife",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Pernambuco?"
+    },
+    "18" : {
+      "answer" : "Teresina",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Piauí?"
+    },
+    "19" : {
+      "answer" : "Rio de Janeiro",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Rio de Janeiro?"
+    },
+    "20" : {
+      "answer" : "Natal",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Rio Grande do Norte?"
+    },
+    "21" : {
+      "answer" : "Porto Alegre",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Rio Grande do Sul?"
+    },
+    "22" : {
+      "answer" : "Porto Velho",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Rondônia?"
+    },
+    "23" : {
+      "answer" : "Boa Vista",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Roraima?"
+    },
+    "24" : {
+      "answer" : "Florianópolis",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Santa Catarina?"
+    },
+    "25" : {
+      "answer" : "São Paulo",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de São Paulo?"
+    },
+    "26" : {
+      "answer" : "Aracaju",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Sergipe?"
+    },
+    "27" : {
+      "answer" : "Palmas",
+      "categoryId" : "01",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Tocantins?"
+    },
+    "28" : {
+      "answer" : "Otawa",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Canadá?"
+    },
+    "29" : {
+      "answer" : "Washington",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital dos Estados Unidos?"
+    },
+    "30" : {
+      "answer" : "Cidade do México",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do México?"
+    },
+    "31" : {
+      "answer" : "Saint John’s",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Antígua e Barbuda?"
+    },
+    "32" : {
+      "answer" : "Nassau",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital das Bahamas?"
+    },
+    "33" : {
+      "answer" : "Bridgetown",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Barbados?"
+    },
+    "34" : {
+      "answer" : "Belmopan",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Belize?"
+    },
+    "35" : {
+      "answer" : "San José",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Costa Rica?"
+    },
+    "36" : {
+      "answer" : "Havana",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Cuba?"
+    },
+    "37" : {
+      "answer" : "Roseau",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Dominica?"
+    },
+    "38" : {
+      "answer" : "San Salvador",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de El Salvador?"
+    },
+    "39" : {
+      "answer" : "Saint George’s",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Granada?"
+    },
+    "40" : {
+      "answer" : "Cidade da Guatemala",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Guatemala?"
+    },
+    "41" : {
+      "answer" : "Porto Príncipe",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Haiti?"
+    },
+    "42" : {
+      "answer" : "Tegucigalpa",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital das Honduras?"
+    },
+    "43" : {
+      "answer" : "Kingston",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Jamaica?"
+    },
+    "44" : {
+      "answer" : "Manágua",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Nicarágua?"
+    },
+    "45" : {
+      "answer" : "Cidade de Panamá",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Panamá?"
+    },
+    "46" : {
+      "answer" : "Santo Domingo",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da República Dominicana?"
+    },
+    "47" : {
+      "answer" : "Castries",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Santa Lúcia?"
+    },
+    "48" : {
+      "answer" : "Basseterre",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de São Cristóvão e Nevis?"
+    },
+    "49" : {
+      "answer" : "Kingstown",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de São Vicente e Granadinas?"
+    },
+    "50" : {
+      "answer" : "Porto de Espanha",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Trinidad e Tobago?"
+    },
+    "51" : {
+      "answer" : "Buenos Aires",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Argentina?"
+    },
+    "52" : {
+      "answer" : "La Paz",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Bolívia?"
+    },
+    "53" : {
+      "answer" : "Brasília",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Brasil?"
+    },
+    "54" : {
+      "answer" : "Santiago",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Chile?"
+    },
+    "55" : {
+      "answer" : "Bogotá",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Colômbia?"
+    },
+    "56" : {
+      "answer" : "Quito",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Equador?"
+    },
+    "57" : {
+      "answer" : "Georgetown",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Guiana?"
+    },
+    "58" : {
+      "answer" : "Assunção",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Paraguai?"
+    },
+    "59" : {
+      "answer" : "Lima",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Peru?"
+    },
+    "60" : {
+      "answer" : "Paramaribo",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Suriname?"
+    },
+    "61" : {
+      "answer" : "Montevideu",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Uruguai?"
+    },
+    "62" : {
+      "answer" : "Caracas",
+      "categoryId" : "02",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Venezuela?"
+    },
+    "63" : {
+      "answer" : "Tirana",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Albânia?"
+    },
+    "64" : {
+      "answer" : "Berlim",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Alemanha?"
+    },
+    "65" : {
+      "answer" : "Andorra la Vella",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Andorra?"
+    },
+    "66" : {
+      "answer" : "Erevan",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Armênia?"
+    },
+    "67" : {
+      "answer" : "Viena",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Áustria?"
+    },
+    "68" : {
+      "answer" : "Baku",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Azerbaijão?"
+    },
+    "69" : {
+      "answer" : "Bruxelas",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Bélgica?"
+    },
+    "70" : {
+      "answer" : "Minsk",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Bielorrússia?"
+    },
+    "71" : {
+      "answer" : "Sarajevo",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Bósnia-Herzegovina?"
+    },
+    "72" : {
+      "answer" : "Sófia",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Bulgária?"
+    },
+    "73" : {
+      "answer" : "Astana",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Cazaquistão?"
+    },
+    "74" : {
+      "answer" : "Nicósia",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Chipre?"
+    },
+    "75" : {
+      "answer" : "Zagreb",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Croácia?"
+    },
+    "76" : {
+      "answer" : "Copenhage",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Dinamarca?"
+    },
+    "77" : {
+      "answer" : "Bratislava",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Eslováquia?"
+    },
+    "78" : {
+      "answer" : "Liubliana",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Eslovênia?"
+    },
+    "79" : {
+      "answer" : "Madri",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Espanha?"
+    },
+    "80" : {
+      "answer" : "Tallinn",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Estônia?"
+    },
+    "81" : {
+      "answer" : "Helsink",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Finlândia?"
+    },
+    "82" : {
+      "answer" : "Paris",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da França?"
+    },
+    "83" : {
+      "answer" : "Tbilisi",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Geórgia?"
+    },
+    "84" : {
+      "answer" : "Atenas",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Grécia?"
+    },
+    "85" : {
+      "answer" : "Amsterdã",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Holanda?"
+    },
+    "86" : {
+      "answer" : "Budapeste",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Hungria?"
+    },
+    "87" : {
+      "answer" : "Dublin",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Irlanda?"
+    },
+    "88" : {
+      "answer" : "Reykjavík",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Islândia?"
+    },
+    "89" : {
+      "answer" : "Roma",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Itália?"
+    },
+    "90" : {
+      "answer" : "Riga",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Letônia?"
+    },
+    "91" : {
+      "answer" : "Vaduz",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Liechtenstein?"
+    },
+    "92" : {
+      "answer" : "Vilnius",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Lituânia?"
+    },
+    "93" : {
+      "answer" : "Luxemburgo",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Luxemburgo?"
+    },
+    "94" : {
+      "answer" : "Skopje",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Macedônia?"
+    },
+    "95" : {
+      "answer" : "Valetta",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Malta?"
+    },
+    "96" : {
+      "answer" : "Chisinau",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Moldávia?"
+    },
+    "97" : {
+      "answer" : "Monaco-Ville",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Mônaco?"
+    },
+    "98" : {
+      "answer" : "Podgorica",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Montenegro?"
+    },
+    "99" : {
+      "answer" : "Oslo",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Noruega?"
+    },
+    "100" : {
+      "answer" : "Varsóvia",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Polônia?"
+    },
+    "101" : {
+      "answer" : "Lisboa",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de Portugal?"
+    },
+    "102" : {
+      "answer" : "Londres",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Inglaterra?"
+    },
+    "103" : {
+      "answer" : "Praga",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da República Tcheca?"
+    },
+    "104" : {
+      "answer" : "Bucareste",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Romênia?"
+    },
+    "105" : {
+      "answer" : "Moscou",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Rússia?"
+    },
+    "106" : {
+      "answer" : "San Marino",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital de San Marino?"
+    },
+    "107" : {
+      "answer" : "Belgrado",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Sérvia?"
+    },
+    "108" : {
+      "answer" : "Estocolmo",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Suécia?"
+    },
+    "109" : {
+      "answer" : "Berna",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Suíça?"
+    },
+    "110" : {
+      "answer" : "Ancara",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Turquia?"
+    },
+    "111" : {
+      "answer" : "Kiev",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital da Ucrânia?"
+    },
+    "112" : {
+      "answer" : "Cidade do Vaticano",
+      "categoryId" : "03",
+      "isImageQuestion" : "false",
+      "question" : "Capital do Vaticano?"
+    },
+    "113" : {
+      "answer" : "Brasilia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FBrazil.png?alt=media&token=df817a59-3b86-4793-ae33-73c5394312e7"
+    },
+    "113" : {
+      "answer" : "Alemanha",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FAlemanha.png?alt=media&token=8ffcb412-4bc5-43d7-8772-c70d342a482b"
+    },
+    "114" : {
+      "answer" : "Argentina",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FArgentina.png?alt=media&token=f7ac5287-6722-4bb9-880b-e7063429663f"
+    },
+    "115" : {
+      "answer" : "Bahamas",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FBahamas.png?alt=media&token=16e75402-1c54-46e6-bad4-4bbc3678f3fd"
+    },
+    "116" : {
+      "answer" : "Bangladesh",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FBangladesh.png?alt=media&token=515be011-1f4f-4971-ae27-832a0ac0cf72"
+    },
+    "117" : {
+      "answer" : "Bélgica",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FB%C3%A9lgica.png?alt=media&token=bb87050e-ac9a-4638-ae42-7a260233e7e5"
+    },
+    "118" : {
+      "answer" : "Bolívia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FBol%C3%ADvia.png?alt=media&token=81187b8e-3714-49d4-9c4d-67163eed40de"
+    },
+    "119" : {
+      "answer" : "Brasil",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FBrasil.png?alt=media&token=cb58ba53-ed37-4a8d-9feb-6d9d873313f5"
+    },
+    "120" : {
+      "answer" : "Canadá",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCanad%C3%A1.png?alt=media&token=e2599838-56b1-4678-ba6d-62be1f9a844e"
+    },
+    "121" : {
+      "answer" : "Chile",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FChile.png?alt=media&token=bbf48047-6f3a-4088-a975-005fff888ec9"
+    },
+    "122" : {
+      "answer" : "China",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FChina.png?alt=media&token=4c001d95-b151-4ca6-b590-25503ee426b8"
+    },
+    "123" : {
+      "answer" : "Colômbia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCol%C3%B4mbia.png?alt=media&token=ff28ee33-0ef8-4695-a978-744ad21bd699"
+    },
+    "124" : {
+      "answer" : "Coreia do Sul",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCoreia%20do%20Sul.png?alt=media&token=5298a08e-a555-4b53-b66a-39fcb3cfdfda"
+    },
+    "125" : {
+      "answer" : "Croácia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCro%C3%A1cia.png?alt=media&token=0c363b65-839c-413a-b6c1-7e8eacf82ad1"
+    },
+    "126" : {
+      "answer" : "Cuba",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCuba.png?alt=media&token=90fa4b4e-3876-43c7-ab4b-347906011d37"
+    },
+    "127" : {
+      "answer" : "Egito",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FEgito.png?alt=media&token=8c75c975-5ece-4349-8dd9-24a6b27eefa6"
+    },
+    "128" : {
+      "answer" : "Equador",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FEquador.png?alt=media&token=4ce3629e-1f2a-4e41-a3c5-3f8ff6c1666a"
+    },
+    "129" : {
+      "answer" : "Espanha",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FEspanha.png?alt=media&token=1fb7f141-ae9f-4c66-923a-848351a27e66"
+    },
+    "130" : {
+      "answer" : "Estados Unidos",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FEstados%20Unidos.png?alt=media&token=9bb50092-c931-477e-99e7-c193390ebf62"
+    },
+    "131" : {
+      "answer" : "Filândia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FFil%C3%A2ndia.png?alt=media&token=3dc6ca6d-2d5f-4258-b77c-35bc2e39fb4f"
+    },
+    "132" : {
+      "answer" : "França",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FFran%C3%A7a.png?alt=media&token=34d0af7c-126d-4a7a-a83a-23106b6ecd1b"
+    },
+    "133" : {
+      "answer" : "Geórgia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FGe%C3%B3rgia.png?alt=media&token=3e82aec5-f01d-4ec6-b2e2-57b181533259"
+    },
+    "134" : {
+      "answer" : "Grécia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FGr%C3%A9cia.png?alt=media&token=72631a6c-8a5c-429c-8a83-1caa59d23359"
+    },
+    "135" : {
+      "answer" : "Hong Kong",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FHong%20Kong.png?alt=media&token=3c0b4f57-ddc1-4500-826f-41c152a02b42"
+    },
+    "136" : {
+      "answer" : "Índia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2F%C3%8Dndia.png?alt=media&token=83891a4d-f9d4-4549-a133-1ad6c4089879"
+    },
+    "137" : {
+      "answer" : "Italia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FItalia.png?alt=media&token=32d0a161-a933-4b7b-81b3-e2b0995c9572"
+    },
+    "138" : {
+      "answer" : "Japão",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FJap%C3%A3o.png?alt=media&token=8ecb71d4-af82-4d60-bca3-dc880c214537"
+    },
+    "139" : {
+      "answer" : "Marrocos",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FMarrocos.png?alt=media&token=f398fb33-38f7-47c8-8653-cf51313f8d52"
+    },
+    "140" : {
+      "answer" : "México",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FM%C3%A9xico.png?alt=media&token=96abb6b6-168a-4c36-95af-b7c87e21b2bc"
+    },
+    "141" : {
+      "answer" : "Rússia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FR%C3%BAssia.png?alt=media&token=20d4c41a-a0a1-4686-a275-8c2dea01a5cf"
+    },
+    "142" : {
+      "answer" : "Singapura",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FSingapura.png?alt=media&token=780d03b3-70d1-4d83-bd83-355d064b6306"
+    },
+    "143" : {
+      "answer" : "Suiça",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FSui%C3%A7a.png?alt=media&token=413a1fb4-f2e0-4ff9-a28b-1d644b041d1b"
+    },
+    "144" : {
+      "answer" : "Ucrânia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FUcr%C3%A2nia.png?alt=media&token=11d9bdc0-6a4c-4f49-95c0-7ed7ee683e89"
+    },
+    "145" : {
+      "answer" : "Uruguai",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FUruguai.png?alt=media&token=6088064f-8184-400c-b458-bc62bdb95403"
+    },
+    "146" : {
+      "answer" : "Venezuela",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FVenezuela.png?alt=media&token=35454698-0142-48b2-988a-111d82cf874a"
+    },
+    "147" : {
+      "answer" : "Angola",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FAngola.png?alt=media&token=4d192c9b-a292-448b-859d-12ceca395738"
+    },
+    "148" : {
+      "answer" : "Australia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FAustralia.png?alt=media&token=07f7e195-d696-407f-a41d-08e912dab82f"
+    },
+    "149" : {
+      "answer" : "Austria",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FAustria.png?alt=media&token=d4259923-3d80-4ba2-a1b8-a5e0b1227f81"
+    },
+    "150" : {
+      "answer" : "Camarões",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCamar%C3%B5es.png?alt=media&token=3f9346d8-1b26-4b1f-b48d-396cc452da8e"
+    },
+    "151" : {
+      "answer" : "Costa Rica",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FCosta%20Rica.png?alt=media&token=d5fed3bc-cc6b-476a-b353-2140ad032cfe"
+    },
+    "152" : {
+      "answer" : "Israel",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FIsrael.png?alt=media&token=4e1b5e83-2f94-4950-b137-878346c4e6ea"
+    },
+    "153" : {
+      "answer" : "Peru",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FPeru.png?alt=media&token=d0f47e30-04d6-47e7-b43c-5c0b34c789c0"
+    },
+    "154" : {
+      "answer" : "Portugal",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FPortugal.png?alt=media&token=20bdddbe-212e-48e4-b14d-18e03db13c40"
+    },
+    "155" : {
+      "answer" : "Polônia",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FPol%C3%B4nia.png?alt=media&token=b65285d2-eaad-4bfe-9ad0-ca32d326d071"
+    },
+    "156" : {
+      "answer" : "Porto Rico",
+      "categoryId" : "04",
+      "isImageQuestion" : "true",
+      "question" : "https://firebasestorage.googleapis.com/v0/b/pquiz-5642c.appspot.com/o/flags%2FPorto%20Rico.png?alt=media&token=c0cff512-05d8-4d7c-9c82-f689dd06daac"
+    }
+  },
+  "Rankings" : {
+    "pedrom" : {
+      "score" : 100,
+      "userName" : "pedrom"
+    }
+  },
+  "ScoresUser" : {
+    "pedrom_01" : {
+      "categoryId" : "01",
+      "categoryName" : "Capitais brasileiras",
+      "score" : "40",
+      "user" : "pedrom",
+      "userCategory" : "pedrom_01"
+    }
+  },
+  "Users" : {
+    "pedrom" : {
+      "email" : "pedromoreirareis@gmail.com",
+      "password" : "1234",
+      "userName" : "pedrom"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491840774315",
+    "firebase_url": "https://pquiz-5642c.firebaseio.com",
+    "project_id": "pquiz-5642c",
+    "storage_bucket": "pquiz-5642c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491840774315:android:5833a268519289a1",
+        "android_client_info": {
+          "package_name": "com.pedromoreirareisgmail.pquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491840774315-ooc0v0tbgt09vqs020hn3al05s2gkj3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pedromoreirareisgmail.pquiz",
+            "certificate_hash": "fc68dd41f2c3f993dc732c988fa43e764d7b13ba"
+          }
+        },
+        {
+          "client_id": "491840774315-t6vlh020j18bki3hkht0m997d4uss0ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHj2jsyNuHnpmHv641Pb0vj8zrhaE8iGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491840774315-t6vlh020j18bki3hkht0m997d4uss0ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
